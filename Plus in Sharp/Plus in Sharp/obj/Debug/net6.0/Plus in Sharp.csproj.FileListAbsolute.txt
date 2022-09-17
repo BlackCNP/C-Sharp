@@ -1,0 +1,15 @@
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\obj\Debug\net6.0\Plus in Sharp.csproj.AssemblyReference.cache
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\obj\Debug\net6.0\Plus in Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\obj\Debug\net6.0\Plus in Sharp.AssemblyInfoInputs.cache
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\obj\Debug\net6.0\Plus in Sharp.AssemblyInfo.cs
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\obj\Debug\net6.0\Plus in Sharp.csproj.CoreCompileInputs.cache
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\bin\Debug\net6.0\Plus in Sharp.exe
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\bin\Debug\net6.0\Plus in Sharp.deps.json
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\bin\Debug\net6.0\Plus in Sharp.runtimeconfig.json
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\bin\Debug\net6.0\Plus in Sharp.dll
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\bin\Debug\net6.0\Plus in Sharp.pdb
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\obj\Debug\net6.0\Plus in Sharp.dll
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\obj\Debug\net6.0\refint\Plus in Sharp.dll
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\obj\Debug\net6.0\Plus in Sharp.pdb
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\obj\Debug\net6.0\Plus in Sharp.genruntimeconfig.cache
+C:\Users\mrx30\source\repos\Plus in Sharp\Plus in Sharp\obj\Debug\net6.0\ref\Plus in Sharp.dll
