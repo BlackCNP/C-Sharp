@@ -1,0 +1,15 @@
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\obj\Debug\net6.0\Lab3_V9.csproj.AssemblyReference.cache
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\obj\Debug\net6.0\Lab3_V9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\obj\Debug\net6.0\Lab3_V9.AssemblyInfoInputs.cache
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\obj\Debug\net6.0\Lab3_V9.AssemblyInfo.cs
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\obj\Debug\net6.0\Lab3_V9.csproj.CoreCompileInputs.cache
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\bin\Debug\net6.0\Lab3_V9.exe
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\bin\Debug\net6.0\Lab3_V9.deps.json
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\bin\Debug\net6.0\Lab3_V9.runtimeconfig.json
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\bin\Debug\net6.0\Lab3_V9.dll
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\bin\Debug\net6.0\Lab3_V9.pdb
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\obj\Debug\net6.0\Lab3_V9.dll
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\obj\Debug\net6.0\refint\Lab3_V9.dll
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\obj\Debug\net6.0\Lab3_V9.pdb
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\obj\Debug\net6.0\Lab3_V9.genruntimeconfig.cache
+C:\Users\mrx30\source\repos\Lab3_V9\Lab3_V9\obj\Debug\net6.0\ref\Lab3_V9.dll
