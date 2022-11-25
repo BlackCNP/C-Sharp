@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrx30\\source\\repos\\Lab5_Var9\\Lab5_Var9\\Lab5_Var9.csproj": {}
+    "D:\\Prog\\Git\\C-Sharp\\Lab5_Var9\\Lab5_Var9\\Lab5_Var9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrx30\\source\\repos\\Lab5_Var9\\Lab5_Var9\\Lab5_Var9.csproj": {
+    "D:\\Prog\\Git\\C-Sharp\\Lab5_Var9\\Lab5_Var9\\Lab5_Var9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrx30\\source\\repos\\Lab5_Var9\\Lab5_Var9\\Lab5_Var9.csproj",
+        "projectUniqueName": "D:\\Prog\\Git\\C-Sharp\\Lab5_Var9\\Lab5_Var9\\Lab5_Var9.csproj",
         "projectName": "Lab5_Var9",
-        "projectPath": "C:\\Users\\mrx30\\source\\repos\\Lab5_Var9\\Lab5_Var9\\Lab5_Var9.csproj",
+        "projectPath": "D:\\Prog\\Git\\C-Sharp\\Lab5_Var9\\Lab5_Var9\\Lab5_Var9.csproj",
         "packagesPath": "C:\\Users\\mrx30\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrx30\\source\\repos\\Lab5_Var9\\Lab5_Var9\\obj\\",
+        "outputPath": "D:\\Prog\\Git\\C-Sharp\\Lab5_Var9\\Lab5_Var9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Prog\\Visual\\Visual Sdk\\NuGetPackages"

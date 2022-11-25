@@ -19,7 +19,7 @@ namespace Lab5
                 for (int j = 0; j < N; j++)
                 {
                     a[i, j] = random.Next(-100, 100);
-                    Console.Write("{0,4}", a[i, j]); //выгляд масиву
+                    Console.Write("{0,4}", a[i, j]); //вигляд масиву
                 }
                 Console.WriteLine();
             }
